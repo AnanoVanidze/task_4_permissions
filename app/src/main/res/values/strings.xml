@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tast_4_permissions</string>
+    <string name="request">request</string>
+    <string name="camera_granted">Camera permission is granted</string>
+    <string name="camera_denied">Camera permission is denied</string>
+    <string name="audio_granted">Audio permission is granted</string>
+    <string name="audio_denied">Audio permission is denied</string>
+</resources>
